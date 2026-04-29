@@ -90,7 +90,7 @@ The primary operating mode. The full Flipper OS is running, all hardware is acti
 
 **Use this mode for:** Everyday use.
 
-## Naming reference
+# Naming reference
 
 The following names appear in design mockups, GitHub discussions, and WIKI files. This section is provided as a search aid. [*(Q6)*](./#open-questions)
 
@@ -101,7 +101,7 @@ The following names appear in design mockups, GitHub discussions, and WIKI files
 | Boot Menu        | U-Boot Menu, U-Boot Mode, Bootloader Mode, Boot Selection, Boot stage                           |
 | Linux Mode       | Active Mode, Full Mode, OS Mode, Main Operating Mode, Full System Mode                          |
 
-## Related topics
+# Related topics
 
 - [Buttons shortcuts](https://docs.flipper.net/one/hardware/about#buttons-shortcuts), full reference for Power button, D-pad, softkeys, Back+Left reset.
 - [Power management](https://docs.flipper.net/one/testing/power), battery, charging, and sleep behavior.
