@@ -27,7 +27,7 @@ This page describes the four operating modes of Flipper One: **Transport**, **Lo
 
 ## Ports and I/O
 
-Flipper One includes multiple I/O interfaces. The behavior of these interfaces across operating modes is documented separately in [Tech Specs](https://docs.flipper.net/one/tech-specs#ports).
+Flipper One includes multiple I/O interfaces. The behavior of these interfaces across operating modes is documented separately in [Tech Specs](https://docs.flipper.net/one/general/tech-specs).
 
 Notable mode-specific behavior: 
 
@@ -57,7 +57,7 @@ flowchart TD
 
 # Hardware controls
 
-Hardware-defined behaviors that affect operating modes (Power button long press, full power cycle, hardware reset) are documented in [Buttons and shortcuts](https://docs.flipper.net/one/about-hardware#buttons-shortcuts).
+Hardware-defined behaviors that affect operating modes (Power button long press, full power cycle, hardware reset) are documented in [Buttons and shortcuts](https://docs.flipper.net/one/hardware/about#buttons-shortcuts).
 
 ---
 
